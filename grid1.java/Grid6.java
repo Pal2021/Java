@@ -1,5 +1,4 @@
 import java.awt.*;
-import javax.swing.*;
 import java.awt.event.*;
 class Grid6 extends Frame implements MouseMotionListener {
     
