@@ -14,14 +14,15 @@ public class JDBC2 {
          //st.createTables();
 
          //Insert values into Tables
-         st.insertvalues();
+        // st.insertvalues();
 
         //Update values into Tables
         //  st.updateValues();
 
         //Read Values into tables
-        st.readValues();
-
+       // st.readValues();
+        
+        // delete values from tables
        //st.deleteValues();
     }
 }
